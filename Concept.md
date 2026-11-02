@@ -10,42 +10,39 @@ Example answers come from the Lighthouse Keeper in the Class 18 slides. Delete t
 ---
 
 ## Player Fantasy
-The feeling the player is really there for, as one sentence: "I am ___."
+The feeling the player is really there for, as one sentence: "I am a Survivor, and i must find the obejcts to escape."
 In a 5-minute game, it's one moment, not a whole adventure.
 
-> Example: "I am the last thing between these ships and the rocks."
 
 ## Pillars
 Three short rules that protect the fantasy. A good pillar says no to something.
 
-1.
-2.
-3.
+1. No Weapons, only a Flashlight to defend yourself
+2. No looking, don't look.
+3. No hiding, must move around all the time, no safe space.
 
-> Example: Calm, then urgent. Read the sea. One light, one job.
 
 ## Core Loop
 What the player does again and again, as 3 or 4 verbs.
 
-> Example: spot a ship, aim the beam, guide it past the rocks, next ship
+> Find the objects, avoid looking at the enemy, use a FlashLight to scare the Enemy, find all to Escape
 
 ## Win and/or Lose
 How does it end? You need at least one.
 
-- Win:
-- Lose:
+- Win: find all to win
+- Lose: getting caught, looking at the enemy for to long
 
-> Example: Win: 10 ships home. Lose: 3 wrecks.
 
 ## Risk
 Something that could stop your game working, or make it late. Then: how will you test it first?
 
-> Example: Ships following the light might feel random. Test it first: one ship, MoveTowards.
+> Having the enemy follow you, and then disappears for a moment when you flash, to then start to chase you again. Only allowing the enemy to chase you when are not looking.
 
 ## Opportunity
 Something that could make your game special.
 
-> Example: A storm at the halfway point: teach, test, twist (Class 10).
+> Have a FlashLight that scare away the enemy to give you some calming moments.
 
 ---
 

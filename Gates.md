@@ -12,8 +12,8 @@ Each document: write the file name, or the link if it lives in Google Docs or Mi
 ## 1. Concept Approval - Monday Nov 2
 
 Documents
-- [ ] One-pager (`Concept.md`): player fantasy, 3 pillars, core loop, win and/or lose
-- [ ] At least one risk and one opportunity (in `Concept.md`)
+- [x] One-pager (`Concept.md`): player fantasy, 3 pillars, core loop, win and/or lose
+- [x] At least one risk and one opportunity (in `Concept.md`)
 
 In Unity
 - [ ] Nothing required. Bonus: a quick greybox test of my biggest risk
