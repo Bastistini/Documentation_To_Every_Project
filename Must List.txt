@@ -1,0 +1,22 @@
+
+
+
+Must Have:
+- Objectives
+- Enemies/Hazards
+- 
+
+
+Should Have:
+
+- have alot of objects that can breake line of sight.
+
+
+Could Have:
+- Timer
+- JumpScares
+- Flashlight, Scare away the Angels.
+
+
+Won't Have:
+- 
