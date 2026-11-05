@@ -1,7 +1,7 @@
 # Concept - Final Project
 
 Sebastian Jensen
-Weeping Angels
+Weeping Pages
 3D Game
 
 One page. Short sentences. Rough is fine.

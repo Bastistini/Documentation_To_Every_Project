@@ -16,7 +16,7 @@ Documents
 - [x] At least one risk and one opportunity (in `Concept.md`)
 
 In Unity
-- [ ] Nothing required. Bonus: a quick greybox test of my biggest risk
+- [x] Nothing required. Bonus: a quick greybox test of my biggest risk
 
 Peer review - reviewed by: ________ &nbsp; Go / Not yet: ________
 What they said, in one line:
@@ -33,8 +33,8 @@ Not yet? That's normal. Fix it, then post your revised one-pager in the "Final P
 ## 2. First Playable - Wednesday Nov 4
 
 Required
-- [ ] The core loop is playable in a greybox (plain shapes, no art, no menus yet)
-- [ ] Must list: every Must feature, with an hour estimate. Add Should and Could features if you have them.
+- [x] The core loop is playable in a greybox (plain shapes, no art, no menus yet)
+- [x] Must list: every Must feature, with an hour estimate. Add Should and Could features if you have them.
 
 Quick ones (still needed, rough is fine, a few minutes each)
 - [ ] Content scope: a short list of counts (example: 1 level, 2 enemy types, 5 sounds)
